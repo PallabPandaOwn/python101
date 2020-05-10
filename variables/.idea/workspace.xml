@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cac3dfe3-9f55-45ec-a2b5-d5c07af8f04d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/venv/src/Assignment1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/src/Assignment1/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/src/variables/variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/src/variables/variables.py" afterDir="false" />
-    </list>
+    <list default="true" id="cac3dfe3-9f55-45ec-a2b5-d5c07af8f04d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +16,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Pallab Panda" />
+      </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="ProjectId" id="1bip9LqnrAUnDtkT7vRc1oaiGyn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -106,7 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1589124615282</updated>
       <workItem from="1589124627111" duration="3345000" />
-      <workItem from="1589134032197" duration="708000" />
+      <workItem from="1589134032197" duration="960000" />
     </task>
     <task id="LOCAL-00001" summary="global vs local variables">
       <created>1589131417476</created>
@@ -115,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589131417476</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="global vs local variables">
+      <created>1589134957841</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589134957841</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,8 +149,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="global vs local variables" />
     <option name="LAST_COMMIT_MESSAGE" value="global vs local variables" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/variables$main.coverage" NAME="main Coverage Results" MODIFIED="1589134345628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/src/Assignment1" />
