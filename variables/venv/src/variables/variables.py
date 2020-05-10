@@ -1,5 +1,15 @@
 
-
+#Global fucntions
 one = 1
-one = 2
+One = 2
 print(one,One)
+
+stringvar = 'hello world'
+print(stringvar)
+
+def function1():
+    var1 = 1
+    return
+
+function1()
+print(var1)#error because of out of scope
