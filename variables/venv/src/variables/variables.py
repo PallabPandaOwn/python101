@@ -16,4 +16,4 @@ def function1():
 # print("cat)
 
 function1()
-print(var1)#error because of out of scope
+# print(var1)#error because of out of scope
