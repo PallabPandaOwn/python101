@@ -1,5 +1,5 @@
 # This is a Tic-Tac-Toe game project with simple logic
-# This programe can create a borad and ask to enter row and column values.
+# This programme can create a board and ask to enter row and column values.
 def drawfield(field):
     for row in range(5):
         if row % 2 == 0:
