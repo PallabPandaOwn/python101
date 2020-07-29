@@ -1,2 +1,1 @@
-# python101
-A complete python course AtoZ with coding example
+- A Complete python code sample module by module with projects
