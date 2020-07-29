@@ -1,14 +1,16 @@
+# This is a Tic-Tac-Toe game project with simple logic
+
 def drawfield(field):
     for row in range(5):
         if row % 2 == 0:
-            Prow = int(row / 2)
+            prow = int(row / 2)
             for col in range(5):
                 if col % 2 == 0:
-                    Pcol = int(col / 2)
+                    pcol = int(col / 2)
                     if col != 4:
-                        print(field[Pcol][Prow], end="")
+                        print(field[pcol][prow], end="")
                     else:
-                        print(field[Pcol][Prow])
+                        print(field[pcol][prow])
                 else:
                     print("|", end="")
         else:
@@ -20,7 +22,7 @@ def drawfield(field):
 Player = 1
 cellList = [[" ", " ", " "], [" ", " ", " "], [" ", " ", " "]]
 drawfield(cellList)
-while (True):
+while True:
     print("Players trun: ", Player)
     MoveRow = int(input("Enter row :- "))
     MoveCol = int(input("Enter col :- "))
